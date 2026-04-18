@@ -1,0 +1,1 @@
+# forexai-pro-api
